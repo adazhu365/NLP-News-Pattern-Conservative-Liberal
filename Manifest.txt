@@ -1,0 +1,15 @@
+1. Provenance: 
+The data is provided by Professor Raf and is hosed on UVA Box under this following link:
+https://virginia.app.box.com/s/bj8f1khrkfd6thm9umq35m6xp2an4zej. It includes relevant information and content of news from various sources throughout the past years.
+
+2. Location: 
+Please find all tables and source files on this link: https://virginia.box.com/s/gi9gbwfuqnhro8whv5a2pz7i6jbsowme
+
+3. Description:
+The data used in this project comes from the newzy file on Box folder. It collects the news content from various sources such as Google News, PowerLine, Guardian, etc. Each of the entry includes a doc_id, sources, title, content, the date it was published, and the url on which it is posted. The sources of these news can be liberal, conservative, or somewhere in the middle. To conduct this study, we select the two sources that have the full content, which are PowerLine and Daily Kos. 
+
+Powerline, started by three lawyers, has shown a leaning towards the conservative, whereas Daily Kos is mainly focused on center-left liberal politics news. The differences in the political stances of these two sources could be interesting to studied on. 
+
+
+4. Format:
+All files are in csv format. 
